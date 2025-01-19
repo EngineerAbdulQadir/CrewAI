@@ -1,10 +1,10 @@
-# CrewAI Multi AI Agent Systems
+# CrewAI 
 
 Explore a collection of powerful Multi AI Agent Systems solutions developed using CrewAI. Each project is designed to address specific tasks and challenges across various domains.
 
 ---
 
-## Project Showcase
+## Multi AI Agent Systems
 
 ### 1. Multi AI Agent for Research and Scribing
 **Description**: Automates research and scribing tasks with advanced AI capabilities.  
