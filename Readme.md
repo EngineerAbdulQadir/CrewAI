@@ -4,7 +4,7 @@ Explore a collection of powerful Multi AI Agent Systems solutions developed usin
 
 ---
 
-## Multi AI Agent Systems
+## Project Showcase
 
 ### 1. Multi AI Agent for Research and Scribing
 **Description**: Automates research and scribing tasks with advanced AI capabilities.  
