@@ -1,0 +1,21 @@
+[project]
+name = "litellm"
+version = "0.1.0"
+description = "litellm using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.100.0,<1.0.0",
+]
+
+[project.scripts]
+kickoff = "litellm.main:kickoff"
+plot = "litellm.main:plot"
+litellm = "litellm.litellm:run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "flow"
