@@ -24,48 +24,51 @@ The projects below illustrate the core components of CrewAI:
    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/04%20-%20Basic%20Flow/crew_flow)
 
 5. **Prompt Chaining & Router**  
-   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/05%20-%20Grinding%20(Prompt%20Chaining%2C%20Router)/grinding)
+   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/05%20-%20Prompt%20Chaining%20%26%20Router/grinding)
 
 6. **Advance Flow**  
    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/06%20-%20Advance%20Flow/advancedflow)
 
 7. **Augmented LLMs**  
-   [View Project]()
+   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/07%20-%20Augemented%20LLMs)
 
 8. **Knowledge**  
-   [View Project]()
+   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/08%20-%20Knowledge)
 
 9. **Memory**  
-   [View Project]()
+   [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/09%20-%20Memory)
 
 10. **Tools**  
-    [View Project]()
+    [View Project](http://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/10%20-%20Tools)
 
 11. **Process & Collaboration**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/11%20-%20Process%20%26%20Collaboration)
 
 12. **Advance Tools**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/12%20-%20Advance%20Tools)
 
 13. **Planning Crew**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/13%20-%20Planning%20Crew)
 
 14. **Testing Crew**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/14%20-%20Testing%20Crew)
 
 15. **Training Crew**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/15%20-%20Training%20Crew)
 
 16. **Flow Deployment**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/16%20-%20Flow%20Deployment/deploy   )
 
 17. **Agent Monitoring (Openlit)**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/17%20-%20Agent%20Monitoring%20(Openlit)/monitoring)
 
 18. **Agent Monitoring (AgentOps)**  
-    [View Project]()
+    [View Project](https://github.com/EngineerAbdulQadir/CrewAI/tree/main/Gauge/18%20-%20Agent%20Monitoring%20(AgentOps)/monitoring)
 
-19. **Multi AI Agents**  
+
+## Agents
+
+1. **Multi Agents**  
     [View Project]()
 
 ## License
